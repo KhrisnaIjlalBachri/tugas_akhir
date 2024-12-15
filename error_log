@@ -1,0 +1,15 @@
+[14-Mar-2024 14:22:54 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/fajarcod/khrisna.fajarcode.com/db.php:10
+Stack trace:
+#0 /home1/fajarcod/khrisna.fajarcode.com/db.php(10): mysqli->__construct()
+#1 /home1/fajarcod/khrisna.fajarcode.com/index.php(4): require('/home1/fajarcod...')
+#2 {main}
+  thrown in /home1/fajarcod/khrisna.fajarcode.com/db.php on line 10
+[14-Mar-2024 14:22:56 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/fajarcod/khrisna.fajarcode.com/db.php:10
+Stack trace:
+#0 /home1/fajarcod/khrisna.fajarcode.com/db.php(10): mysqli->__construct()
+#1 /home1/fajarcod/khrisna.fajarcode.com/index.php(4): require('/home1/fajarcod...')
+#2 {main}
+  thrown in /home1/fajarcod/khrisna.fajarcode.com/db.php on line 10
+[15-Mar-2024 13:43:53 Asia/Jakarta] PHP Warning:  Undefined array key "action" in /home1/fajarcod/khrisna.fajarcode.com/action.php on line 5
+[15-Mar-2024 13:43:54 Asia/Jakarta] PHP Warning:  Undefined array key "action" in /home1/fajarcod/khrisna.fajarcode.com/action.php on line 5
+[15-Mar-2024 13:43:54 Asia/Jakarta] PHP Warning:  Undefined array key "action" in /home1/fajarcod/khrisna.fajarcode.com/action.php on line 5
